@@ -176,7 +176,7 @@ const BookingPage = () => {
                           animate={{ opacity: 1, height: 'auto' }}
                           className="mt-4"
                         >
-                          <Label htmlFor="pilotCode">School Pilot Code (Optional)</Label>
+                          <Label htmlFor="pilotCode">School Pilot Code (Required)</Label>
                           <Input
                             id="pilotCode"
                             placeholder="Enter pilot code"
