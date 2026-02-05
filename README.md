@@ -92,7 +92,7 @@ npm run dev
 
 Open the project in your code editor
 
-Make changes in src/ (or where your pages/components are)
+Make changes in src
 
 Run the development server
 
