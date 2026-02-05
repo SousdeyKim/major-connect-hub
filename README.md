@@ -1,73 +1,106 @@
-# Welcome to your Lovable project
+Major Connect Hub
 
-## Project info
+A modern, user-friendly platform connecting high school students with real university students
+who can give them honest, firsthand insights about their majors.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![Major Connect Hub Homepage](./assets/readme-images/sousdeykim.github.io_major-connect-hub_.png)
 
-## How can I edit this code?
+📌 Table of Contents
 
-There are several ways of editing your application.
+About
 
-**Use Lovable**
+Demo
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Features
 
-Changes made via Lovable will be committed automatically to this repo.
+How It Works
 
-**Use your preferred IDE**
+Screenshots
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Tech Stack
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Installation
 
-Follow these steps:
+Usage
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🧠 About
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Major Connect Hub is a front-end web application designed to connect high school students with real university students who can give them honest, firsthand insights about their majors through one-on-one discussions.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🖥 Demo
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Access the live demo here:
+🔗 https://sousdeykim.github.io/major-connect-hub/
 
-**Edit a file directly in GitHub**
+✨ Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🎯 Clear breakdown of how the platform works
 
-**Use GitHub Codespaces**
+📊 Visual guidance for students choosing a major
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🔎 Easy-to-understand user flow and navigation
 
-## What technologies are used for this project?
+📱 Responsive layout for different screen sizes
 
-This project is built with:
+🚀 How It Works
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Step 1: Student selects a major and mentor
+Step 2: Student enters contact info (no account needed)
+Step 3: Student books a session (paid or free pilot)
+Step 4: System generates a unique session code
+Step 5: Email is sent with mentor contact and session details
+Step 6: Mentor and student meet via Google Meet
+Step 7: Session completion confirmation
+Step 8: Student submits feedback and review
 
-## How can I deploy this project?
+📸 Screenshots
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Below are some screenshots of the project:
 
-## Can I connect a custom domain to my Lovable project?
+Homepage
 
-Yes, you can!
+ ![Homepage](./assets/readme-images/homepage.png)
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+How It Works Section
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+![How It Works](./assets/readme-images/how-it-works.png)
+
+Mobile View
+
+![Responsive View](./assets/readme-images/mobile-view.png)
+
+🛠 Tech Stack
+Category Technology
+Frontend HTML, CSS, JavaScript
+Library React
+Hosting GitHub Pages
+
+💻 Installation
+
+If someone wants to clone and run the project locally:
+
+# Clone the repo
+
+git clone https://github.com/SousdeyKim/major-connect-hub.git
+
+# Change directory
+
+cd major-connect-hub
+
+# Install dependencies
+
+npm install
+
+# Run locally
+
+npm run dev 
+
+⚙ Usage
+
+Open the project in your code editor
+
+Make changes in src/ (or where your pages/components are)
+
+Run the development server
+
+Build for production when ready
