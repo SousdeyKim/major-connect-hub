@@ -7,32 +7,25 @@ who can give them honest, firsthand insights about their majors.
 
 📌 Table of Contents
 
-About
+- [About](#about)
+- [Demo](#demo)
+- [Features](#features)
+- [How It Works](#how-it-works)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
 
-Demo
-
-Features
-
-How It Works
-
-Screenshots
-
-Tech Stack
-
-Installation
-
-Usage
-
-🧠 About
+## 🧠 About
 
 Major Connect Hub is a front-end web application designed to connect high school students with real university students who can give them honest, firsthand insights about their majors through one-on-one discussions.
 
-🖥 Demo
+## 🖥 Demo
 
 Access the live demo here:
 🔗 https://sousdeykim.github.io/major-connect-hub/
 
-✨ Features
+## ✨ Features
 
 🎯 Clear breakdown of how the platform works
 
@@ -42,7 +35,7 @@ Access the live demo here:
 
 📱 Responsive layout for different screen sizes
 
-🚀 How It Works
+## 🚀 How It Works
 
 Step 1: Student selects a major and mentor
 Step 2: Student enters contact info (no account needed)
@@ -53,13 +46,13 @@ Step 6: Mentor and student meet via Google Meet
 Step 7: Session completion confirmation
 Step 8: Student submits feedback and review
 
-📸 Screenshots
+## 📸 Screenshots
 
 Below are some screenshots of the project:
 
 Homepage
 
- ![Homepage](./assets/readme-images/homepage.png)
+ ![Homepage](./assets/readme-images/sousdeykim.github.io_major-connect-hub_.png)
 
 How It Works Section
 
@@ -69,13 +62,13 @@ Mobile View
 
 ![Responsive View](./assets/readme-images/mobile-view.png)
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 Category Technology
 Frontend HTML, CSS, JavaScript
 Library React
 Hosting GitHub Pages
 
-💻 Installation
+## 💻 Installation
 
 If someone wants to clone and run the project locally:
 
@@ -95,7 +88,7 @@ npm install
 
 npm run dev 
 
-⚙ Usage
+## ⚙ Usage
 
 Open the project in your code editor
 
