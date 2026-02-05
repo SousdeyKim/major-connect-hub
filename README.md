@@ -16,7 +16,7 @@ who can give them honest, firsthand insights about their majors.
 - [Installation](#installation)
 - [Usage](#usage)
 
-## 🧠 About
+<h2 id="about">🧠 About</h2>
 
 Major Connect Hub is a front-end web application designed to connect high school students with real university students who can give them honest, firsthand insights about their majors through one-on-one discussions.
 
